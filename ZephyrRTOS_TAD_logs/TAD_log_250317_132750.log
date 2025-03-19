@@ -1,0 +1,12 @@
+"Task Aware Debugger for GDB" version 24.12.0 (202407110909)
+Copyright 2016-2023 NXP
+==================================
+13:22:49.748 INFO: [ZephyrRTOS] .config file could not be read [C:\Users\widjajm\OneDrive - Western Washington University\Western Washington University\2025 Winter\EECE 403\403_Workspace\FSS_ADC_test\Debug\.config (The system cannot find the file specified)]
+13:22:49.748 INFO: [TadModel] DSF session ID 3 has started.
+13:22:53.751 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+13:22:53.793 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+13:22:54.342 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+13:22:54.417 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+13:22:56.668 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+13:27:49.477 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+13:27:50.751 INFO: [TadModel] DSF session ID 3 has ended.
